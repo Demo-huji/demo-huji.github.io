@@ -1,6 +1,5 @@
 
-
-[![senli1073](https://img.shields.io/badge/Demo-huji-github-blue?logo=github)](https://github.com/Demo-huji)
+[![Demo-huji](https://img.shields.io/badge/github-Demohuji-%231677ff?style=flat)](https://github.com/Demo-huji)
 
 He is currently pursuing a Master's Degree in Power Engineering, at School of Polytechnic Institute, Zhejiang University, China.
 

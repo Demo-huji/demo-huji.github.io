@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
+- Second-prize Scholarship of CUP, 2023.
 
-- First-prize Scholarship of CUMT, 2024.
+- Second-prize Scholarship of CUP, 2022.
 
-- First-prize Scholarship of CUMT, 2023.
+- Second-prize Scholarship of CUP, 2021.
 
-- Freshman Scholarship of CUMT, 2022.
+- First-prize of the 13th Chinese Mathematics Competitions (CMC), 2021.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Third-prize of APMCM, 2021.
